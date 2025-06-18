@@ -4,8 +4,8 @@
         "link": "https://www.vlab.co.in/broad-area-physical-sciences",
         "code": "PHYSCI"
     },
-    "lab": "Modern Physics Virtual Lab",
-    "lab_display_name": "Modern Physics Virtual Lab",
+    "lab": "Solid State Physics Virtual Lab",
+    "lab_display_name": "Solid State Physics Virtual Lab",
     "phase": 2,
     "collegeName": "AMRT",
     "baseUrl": "ssp-amrt.vlabs.ac.in",

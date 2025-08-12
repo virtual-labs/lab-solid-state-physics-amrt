@@ -15,49 +15,49 @@
     "name": "Characteristics of Zener diode",
     "short-name": "characteristics-zener-diode",
     "repo": "https://github.com/virtual-labs/exp-characteristics-zener-diode-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Characteristics of Thermistor",
     "short-name": "characteristics-thermistor",
     "repo": "https://github.com/virtual-labs/exp-characteristics-thermistor-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Resistivity by Four Probe Method",
     "short-name": "resistivity-four-probe",
     "repo": "https://github.com/virtual-labs/exp-resistivity-four-probe-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Hall effect experiment - Determination of charge carrier density",
     "short-name": "hall-effect-charge-carrier",
     "repo": "https://github.com/virtual-labs/exp-hall-effect-charge-carrier-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Cornu's Method",
     "short-name": "cornus-method",
     "repo": "https://github.com/virtual-labs/exp-cornus-method-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Zener Diode as Voltage Regulator",
     "short-name": "zener-diode-voltage-regulator",
     "repo": "https://github.com/virtual-labs/exp-zener-diode-voltage-regulator-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Crystal Structure",
     "short-name": "crystal-structure",
     "repo": "https://github.com/virtual-labs/exp-crystal-structure-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],

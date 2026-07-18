@@ -36,7 +36,7 @@
     "name": "Hall effect experiment - Determination of charge carrier density",
     "short-name": "hall-effect-charge-carrier",
     "repo": "https://github.com/virtual-labs/exp-hall-effect-charge-carrier-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
